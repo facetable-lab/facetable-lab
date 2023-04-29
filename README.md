@@ -7,6 +7,11 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=WorkSE)](https://github.com/facetable-lab/WorkSE)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=NewsPortal)]([https://github.com/facetable-lab/NewsPortal](https://github.com/facetable-lab/NewsPortal))
+  
+Back-end:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facetable-lab)](https://github.com/facetable-lab/github-readme-stats)
 
