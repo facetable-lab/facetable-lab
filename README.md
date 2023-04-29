@@ -26,8 +26,10 @@ Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-Learning:
+Learning:  
   Back-end:  
+  ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+  ![Django Channels](https://camo.githubusercontent.com/76a8ca65ea45604ace6d6408510e4a16864599759b16849791538ffe9098c726/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f5f4368616e6e656c732d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f)
   Databases:  
   Front-end:  
   Tools:  
