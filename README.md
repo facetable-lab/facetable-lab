@@ -9,7 +9,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=facetable-lab)](https://github.com/facetable-lab/github-profile-trophy)
 
-<div>
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=WorkSE)](https://github.com/facetable-lab/WorkSE)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=NewsPortal)](https://github.com/facetable-lab/NewsPortal)
-</div>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=NewsPortal)]([https://github.com/facetable-lab/NewsPortal](https://github.com/facetable-lab/NewsPortal))
+
