@@ -8,12 +8,12 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=WorkSE)](https://github.com/facetable-lab/WorkSE)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=NewsPortal)]([https://github.com/facetable-lab/NewsPortal](https://github.com/facetable-lab/NewsPortal))
   
-Back-end:
+Back-end:<hr>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-<hr></hr>
-Databases:
+<hr>
+Databases:<hr>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
