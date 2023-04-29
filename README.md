@@ -5,11 +5,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=940&lines=Coding+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+99%25+Failed" alt="Typing SVG" /></a>
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=WorkSE)](https://github.com/facetable-lab/WorkSE)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=NewsPortal)]([https://github.com/facetable-lab/NewsPortal](https://github.com/facetable-lab/NewsPortal))
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facetable-lab)](https://github.com/facetable-lab/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=facetable-lab)](https://github.com/facetable-lab/github-profile-trophy)
 
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=WorkSE)](https://github.com/facetable-lab/WorkSE)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=NewsPortal)]([https://github.com/facetable-lab/NewsPortal](https://github.com/facetable-lab/NewsPortal))
 
