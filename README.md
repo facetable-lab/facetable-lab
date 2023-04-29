@@ -8,13 +8,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=WorkSE)](https://github.com/facetable-lab/WorkSE)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=facetable-lab&repo=NewsPortal)]([https://github.com/facetable-lab/NewsPortal](https://github.com/facetable-lab/NewsPortal))
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=facetable-lab&theme=solarized_dark)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facetable-lab)](https://github.com/facetable-lab/github-readme-stats)
-
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=facetable-lab)](https://github.com/facetable-lab/github-profile-trophy)
 
