@@ -14,7 +14,6 @@ Back-end:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 Databases:  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 Front-end:  
@@ -35,8 +34,15 @@ Learning:
   ![SqlAlchemy](https://camo.githubusercontent.com/d543fff80e3669fbdbc647ce25f20917476273ff755a4b0f4f2113a677739dfe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53716c416c6368656d792d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d53716c416c6368656d79)
   ![Celery](https://camo.githubusercontent.com/1fff5df6b8c39fefa0809b5f68b9469d69757807c8b1994ca87ea6277fce5b22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d43656c6572792d2532333030433742373f7374796c653d666c61742d737175617265266c6f676f3d43656c657279)  
   Databases:  
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
   Front-end:  
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
   Tools:  
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 
 
 
